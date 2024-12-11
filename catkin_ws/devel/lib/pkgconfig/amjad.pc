@@ -1,0 +1,8 @@
+prefix=/home/aamjad/ece3641-homeowork6-2024/catkin_ws/devel
+
+Name: amjad
+Description: Description of amjad
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
